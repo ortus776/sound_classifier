@@ -60,8 +60,8 @@
 
 ```bash
 # Клонирование проекта
-git clone [https://github.com/](https://github.com/)<ВАШ_ЛОГИН>/<ИМЯ_РЕПОЗИТОРИЯ>.git
-cd <ИМЯ_РЕПОЗИТОРИЯ>
+git clone https://github.com/ortus776/sound_classifier
+cd sound_classifier
 
 # Установка библиотек
 pip install -r requirements.txt
